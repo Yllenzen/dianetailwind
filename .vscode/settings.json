@@ -1,0 +1,30 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss",
+    "*.scss": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#761246",
+    "activityBar.background": "#761246",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#528a15",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#761246",
+    "statusBar.background": "#4a0b2c",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#761246",
+    "statusBarItem.remoteBackground": "#4a0b2c",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#4a0b2c",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#4a0b2c99",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#4a0b2c",
+  "liveServer.settings.port": 5502
+}

@@ -1,0 +1,19 @@
+{
+  "name": "diane",
+  "version": "1.0.0",
+  "main": "prettier.config.js",
+  "scripts": {
+    "start": "tailwindcss -i ./src/style.css -o ./src/output.css --watch",
+    "build": "tailwindcss -i ./src/style.css -o ./src/output.css --minify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.3",
+    "prettier": "^3.4.2",
+    "prettier-plugin-tailwindcss": "^0.6.11",
+    "tailwindcss": "^4.0.3"
+  }
+}
